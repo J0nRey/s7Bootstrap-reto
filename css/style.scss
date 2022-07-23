@@ -1,0 +1,28 @@
+.bg-{
+    &navy{
+        background-color: navy;
+    }
+    &cyan{
+        background-color: cyan;
+    }
+    &golden {
+        background-color: gold;
+    }
+    &magenta {
+        background-color: magenta;
+    }
+    &yellow {
+        background-color: yellow;
+    }
+    &purple {
+        background-color: purple;
+    }
+}
+
+.justify-content-evenly{
+    justify-content: space-evenly;
+}
+
+.w-33{
+    width: calc(33.3% - 1.5rem)!important;
+}
